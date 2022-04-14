@@ -3,3 +3,4 @@ tsrg2 left right
 
  dqz net/minecraft/client/Minecraft
  <init>(net/minecraft/client/main/GameConfig arg0)
+  game net/minecraft/client/game/Game/ 

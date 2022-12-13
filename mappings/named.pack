@@ -1,0 +1,9 @@
+packed named helium_minecraft
+
+net.minecraft.client.Minecraft
+public Minecraft(GameConfig conf){
+this.parser.get();
+this.heliumRegistry.init();
+}
+
+//more core mods soon
